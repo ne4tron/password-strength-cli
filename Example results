@@ -1,0 +1,6 @@
+weak password
+password-strength "12345"
+output 
+Password: 12345
+Strength Score: 20/100
+Warning: This password has been breached!
