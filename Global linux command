@@ -1,0 +1,4 @@
+chmod +x password_strength_cli.py
+sudo mv password_strength_cli.py /usr/local/bin/password-strength
+then run it globally:
+password-strength "YourPassword123!"
