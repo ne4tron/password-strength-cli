@@ -1,0 +1,4 @@
+password-strength-cli/
+├── password_strength_cli.py   # Main CLI script
+├── requirements.txt           # Dependencies
+└── README.md                  # Project documentation
