@@ -1,4 +1,4 @@
-# AI Password Strength Checker (Linux CLI Tool)
+# Password Strength Checker (Linux CLI Tool)
 
 This is a Python-based command-line tool that evaluates the strength of a password and checks if it has been compromised in known data breaches using the [Have I Been Pwned API](https://haveibeenpwned.com/API/v3).
 
